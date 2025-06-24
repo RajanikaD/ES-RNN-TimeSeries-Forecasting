@@ -96,6 +96,6 @@ Tested on 3 sample monthly time series:
 These results highlight strong generalization with room for tuning on large-scale benchmarks.
 
 ### 📈 Visualizations
-<p align="center"> <img src="path/to/forecast_vs_actual.png" width="600"/> <br><em>ES-RNN Forecast vs Actual</em> </p> <p align="center"> <img src="path/to/barplot_metrics_comparison.png" width="600"/> <br><em>Metric Comparison – ES-RNN vs NeuralProphet</em> </p>
+<p align="center"> <img src="Screenshot 2025-06-24 154320.png" width="600"/> <br><em>ES-RNN Forecast vs Actual</em> </p> <p align="center"> <img src="Screenshot 2025-06-24 154407.png" width="600"/> <br><em>Metric Comparison – ES-RNN vs NeuralProphet</em> </p>
 
 "Hybrid models like ES-RNN offer the best of both worlds — interpretable structure and adaptable learning."
