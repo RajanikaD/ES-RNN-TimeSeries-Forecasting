@@ -36,12 +36,19 @@ Final Forecast = Forecast Residual + Trend + Seasonality
 ## 📁 Project Structure
 
 ES-RNN-TimeSeries-Forecasting/
+
 ├── ES_RNN_rdebnath.ipynb # Retail sales demo
+
 ├── ES_RNN_M3_Benchmark_rdebnath.ipynb # M3 dataset evaluation
+
 ├── M3Monthly_Cleaned_Sample.csv # Benchmark dataset
+
 ├── esrnn_m3_results.csv # Evaluation metrics
+
 ├── ESRNN_M3_Evaluation.csv # R², RMSE, MAE results
+
 ├── ES-RNN.pdf # Project slides
+
 └── README.md
 
 
