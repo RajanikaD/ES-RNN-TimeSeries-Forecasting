@@ -65,7 +65,7 @@ model = tf.keras.Sequential([
     tf.keras.layers.LSTM(64, input_shape=(30, 1)),
     tf.keras.layers.Dense(1)
 ])
-
+```
 Loss: MSE
 
 Optimizer: Adam
